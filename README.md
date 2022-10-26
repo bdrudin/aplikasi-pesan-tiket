@@ -22,4 +22,3 @@
 
 ## Screenshoot
 
-- Beberapa capture gambar yang ditampilkan Screenahoot lihat di file **Screenshoot.pdf**
