@@ -1,0 +1,9 @@
+{
+    "name": "tugas_praktek/badrudin",
+    "description": "Tugas membuat halaman web jwd kominfo",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "twbs/bootstrap": "^5.2"
+    }
+}
